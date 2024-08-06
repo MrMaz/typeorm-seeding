@@ -1,6 +1,6 @@
 {
   "name": "@concepta/typeorm-seeding",
-  "version": "4.0.0-beta.1",
+  "version": "4.0.0",
   "description": "A simple but powerful database seeder for TypeORM ^0.3.0",
   "license": "MIT",
   "author": "Concepta (https://github.com/conceptadev)",
